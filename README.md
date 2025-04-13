@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C768&width=435&lines=AI/LLM+Developer;Chatbot+Engineer;Python+%26+JavaScript+Wizard)](https://git.io/typing-svg)
 
 ### 🤖 About Me
-I'm a 22-year-old developer passionate about building intelligent systems. My expertise lies in creating AI-powered chatbots and autonomous agents using cutting-edge language models. I thrive on turning complex AI concepts into practical applications.
+I'm a 32-year-old developer passionate about building intelligent systems. My expertise lies in creating AI-powered chatbots and autonomous agents using cutting-edge language models. I thrive on turning complex AI concepts into practical applications.
 
 - 🌱 **Learning** Multi-agent systems and vector database optimization
 - 💡 **Expertise** in RAG architectures and conversational AI design
 - 🚀 **Currently Exploring** AI agent swarms for enterprise automation
-- 📫 **Reach me**: ArjunKhemani@gmail.com
+- 📫 **Reach me**: adilBenani4@gmail.com
 - ⚡ **Fun fact**: Built my first chatbot at 15 using AIML
 
 ---
