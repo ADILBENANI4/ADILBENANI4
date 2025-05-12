@@ -1,4 +1,4 @@
-# Hey, I'm ADIL BENANI! 👋
+# Hey, I'm NIKHIL! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C768&width=435&lines=AI/LLM+Developer;Chatbot+Engineer;Python+%26+JavaScript+Wizard)](https://git.io/typing-svg)
 
